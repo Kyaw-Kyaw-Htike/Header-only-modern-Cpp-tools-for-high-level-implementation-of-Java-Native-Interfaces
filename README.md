@@ -35,6 +35,7 @@ The tools also contains a powerful class called "JavaClass" that wraps JNIEnv, 
 
 Finally, the tools contain a class named "jArray" to easily and directly manipulate java arrays. It can be used to create a new java array or wrap an existing one, and manipulate it at a high level.
 
+https://kyaw.xyz/2017/12/10/header-modern-cpp-tools-high-level-implementation-java-native-interfaces-jni
 
 Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
 
